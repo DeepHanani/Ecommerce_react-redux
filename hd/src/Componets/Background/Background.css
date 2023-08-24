@@ -1,0 +1,36 @@
+.photo {
+    height: 850px;
+    background-color: chocolate;
+    background: url("https://www.ssi-schaefer.com/resource/blob/1076888/b5bdadcababc0904a574ea9d675870c3/e-commerce-hero-dam-image-en-31561--data.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-size: contain; */
+  }
+  
+  .detail {
+    width: 560px;
+   
+    padding: 190px 0px 0px 100px;
+  }
+  
+  .big {
+    font-size: 90px;
+    margin-bottom: 30px;
+    color: rgb(23, 19, 19);
+  }
+  .small {
+    margin-bottom: 35px;
+    line-height: 25px;
+    font-size: 18px;
+    color: rgb(10, 10, 10);
+    border-radius: 5px;
+  }
+  
+  .detail button {
+    padding: 17px 60px;
+    border-radius: 50px;
+    font-size: 18px;
+    background-color: orangered;
+    color: white;
+    border: none;
+  }
